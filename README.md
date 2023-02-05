@@ -13,7 +13,7 @@ Discord Rich Presence Client (RPC) for [Notion](https://www.notion.so/) <br> <br
 - Clone this repository
 - Ensure that Discord is open and you have logged in
 - Ensure that Notion is open and you have the file of your choice open
-- Run the python script by using this command `python3 script.py`
+- Run the python script by using this command `python3 script_macos.py` if on MacOS or `python3 script_windows.py` if on Windows
 - Give the necessary permissions and re-run the script
 - Your Discord activity should now be updated
 
