@@ -7,7 +7,7 @@ You need to upload your image(s) here:
 https://discordapp.com/developers/applications/<APP ID>/rich-presence/assets
 """
 
-client_id = "1071611439116206101" # application ID
+client_id = "861651444234846258" # application ID
 RPC = Presence(client_id=client_id)
 RPC.connect()
 
