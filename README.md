@@ -6,7 +6,7 @@ Discord Rich Presence Client (RPC) for [Notion](https://www.notion.so/) <br> <br
 ![image](https://user-images.githubusercontent.com/46650119/124508973-995e9680-ddee-11eb-95ea-a641208b9238.png)
 
 ## Requirements
-- macOS
+- macOS or Windows
 - Python3
 
 ## Setup
@@ -19,7 +19,6 @@ Discord Rich Presence Client (RPC) for [Notion](https://www.notion.so/) <br> <br
 
 ## What This Script Can't Do
 - Update the Notion page name if changed after running the script. Maybe in the future, eh?
-- Run on platforms other than macOS. Why not? As of now, the script uses AppleScript to check if Notion is open or not. Hence, it is not supported on other platforms
 
 ## Contribution
 - This is an open-source project, and shall continue to remain so! Make a pull request! All contributions are welcome :D
@@ -27,3 +26,5 @@ Discord Rich Presence Client (RPC) for [Notion](https://www.notion.so/) <br> <br
 
 ## License
 [MIT](LICENSE)
+
+This project was originally created by Nandini Proothi.
