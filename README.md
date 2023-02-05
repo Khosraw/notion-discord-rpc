@@ -18,7 +18,7 @@ Discord Rich Presence Client (RPC) for [Notion](https://www.notion.so/) <br> <br
 - Your Discord activity should now be updated
 
 ## What This Script Can't Do
-- Update the Notion page name if changed after running the script. Maybe in the future, eh?
+- Update the Notion page name if changed after running the script on MacOS. This feature is available on Windows but not on MacOS since I do not have a MacOS computer to test such a feature.
 
 ## Contribution
 - This is an open-source project, and shall continue to remain so! Make a pull request! All contributions are welcome :D
